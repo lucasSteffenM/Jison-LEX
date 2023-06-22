@@ -1,0 +1,18 @@
+int a;
+int a, b;
+int a[30];
+float _a,b;
+char b[5], x;
+
+if (a>1) {a++; b+=1; c=2;};
+if (2>1) {a++; b+=1; c=2;} else {a--; b-=1; c=4;};
+
+
+switch (var) { case 1: {test = 1 ; break;} case 2: {test = 2 ; break;} case 3: {test = 1 ; break;}};
+switch (var) { case 1: {test = 1 ; break;} case 2: {test = 2 ; break;} case 3: {test = 1 ; break;} default: {test = 3;} };
+
+while (a>1) {x++;};
+while (a>1) {x--; b*=1; c=2;};
+
+for(a=0; a>30; a++){x++; b+=1; c=2;};
+

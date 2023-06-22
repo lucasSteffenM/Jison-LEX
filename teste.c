@@ -1,0 +1,1 @@
+switch (var) { case 1: {test = 1 ; break;} case 2: {test = 2 ; break;} case 3: {test = 1 ; break;} default: {test = 3;} };
